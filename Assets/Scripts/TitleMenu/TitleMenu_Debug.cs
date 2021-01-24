@@ -4,8 +4,6 @@ using UnityEngine;
 public class TitleMenu_Debug : MonoBehaviour {
     private string test = "";
     private readonly DEBUG_VARIABLE _dV = new DEBUG_VARIABLE();
-    void Start() {
-    }
 
     void Update() {
         if (Input.anyKeyDown) {
