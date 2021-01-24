@@ -7,7 +7,13 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
+          <e p="PROJECT_CENTRAL" t="Include">
+            <e p="DEBUG_VARIABLE.cs" t="Include" />
+          </e>
           <e p="Test.cs" t="Include" />
+          <e p="TitleMenu" t="Include">
+            <e p="TitleMenu_Debug.cs" t="Include" />
+          </e>
         </e>
       </e>
       <e p="DollfRogue.sln" t="IncludeFlat" />

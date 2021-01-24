@@ -10,7 +10,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8372fcb-e462-4167-aa1e-97bca9e997f0" name="Default Changelist" comment="" />
+    <list default="true" id="c8372fcb-e462-4167-aa1e-97bca9e997f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PROJECT_CENTRAL/DEBUG_VARIABLE.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PROJECT_CENTRAL/DEBUG_VARIABLE.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_Debug.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DollfRogue/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DollfRogue/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DollfRogue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DollfRogue/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TitleMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TitleMenu.unity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,10 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://E:/Documents/unity/Projects/DollfRogue/ProjectSettings/ProjectSettings.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/Documents/unity/Projects/DollfRogue/ProjectSettings/GraphicsSettings.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_Debug.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PROJECT_CENTRAL/DEBUG_VARIABLE.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_Debug.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PROJECT_CENTRAL/DEBUG_VARIABLE.cs" />
       </list>
     </option>
   </component>
@@ -83,6 +98,7 @@
       <workItem from="1611392965131" duration="273000" />
       <workItem from="1611393287387" duration="196000" />
       <workItem from="1611393810345" duration="921000" />
+      <workItem from="1611502912948" duration="2459000" />
     </task>
     <task id="LOCAL-00001" summary="add gitignore">
       <created>1611393108074</created>
@@ -105,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611393987242</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hoge">
+      <created>1611502953235</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611502953235</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +153,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="add gitignore" />
     <MESSAGE value="update gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="update gitignore" />
+    <MESSAGE value="hoge" />
+    <option name="LAST_COMMIT_MESSAGE" value="hoge" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1796" y="407" width="555" height="253" key="Github.ShareDialog" timestamp="1611393884898">
@@ -141,9 +165,9 @@
       <screen x="0" y="0" width="2560" height="1019" />
     </state>
     <state x="1428" y="154" key="SettingsEditor/0.0.2560.1019/392.-1080.1920.1080@0.0.2560.1019" timestamp="1611392403658" />
-    <state x="1512" y="242" key="Vcs.Push.Dialog.v2" timestamp="1611393443877">
+    <state x="1512" y="242" key="Vcs.Push.Dialog.v2" timestamp="1611502963809">
       <screen x="0" y="0" width="2560" height="1019" />
     </state>
-    <state x="1512" y="242" key="Vcs.Push.Dialog.v2/0.0.2560.1019/392.-1080.1920.1080@0.0.2560.1019" timestamp="1611393443877" />
+    <state x="1512" y="242" key="Vcs.Push.Dialog.v2/0.0.2560.1019/392.-1080.1920.1080@0.0.2560.1019" timestamp="1611502963809" />
   </component>
 </project>
