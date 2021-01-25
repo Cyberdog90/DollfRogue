@@ -11,27 +11,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8372fcb-e462-4167-aa1e-97bca9e997f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Image/MainMaps.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/MainMaps/MainMaps_BG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/MainMaps/MainMaps_BG.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/TitleMenu/TitleMenu_Load.kra" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/TitleMenu/TitleMenu_Load.kra.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/TitleMenu/TitleMenu_Load.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/TitleMenu/TitleMenu_Load.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/TitleMenu/TitleMenu_Start.kra" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/TitleMenu/TitleMenu_Start.kra.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/TitleMenu/TitleMenu_Start.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/TitleMenu/TitleMenu_Start.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/MainMaps.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/MainMaps.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_SceneLoad.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_SceneLoad.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Image/TitleMenu/TitleMenu_EXiT.kra" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Image/TitleMenu/TitleMenu_EXiT.kra.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Image/TitleMenu/TitleMenu_EXiT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Image/TitleMenu/TitleMenu_EXiT.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_Start.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DollfRogue/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DollfRogue/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DollfRogue/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DollfRogue/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DollfRogue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DollfRogue/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/TitleMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TitleMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Test.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Test.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_Debug.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_Debug.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_SceneLoad.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_SceneLoad.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +35,18 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_Debug.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PROJECT_CENTRAL/DEBUG_VARIABLE.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_Start.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PROJECT_CENTRAL/DEBUG_VARIABLE.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_SceneLoad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_Start.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_EXiT.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_Load.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_Debug.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_SceneLoad.cs" />
       </list>
     </option>
   </component>
@@ -113,7 +108,8 @@
       <workItem from="1611393287387" duration="196000" />
       <workItem from="1611393810345" duration="921000" />
       <workItem from="1611502912948" duration="2492000" />
-      <workItem from="1611509750799" duration="2155000" />
+      <workItem from="1611509750799" duration="2193000" />
+      <workItem from="1611575336170" duration="4013000" />
     </task>
     <task id="LOCAL-00001" summary="add gitignore">
       <created>1611393108074</created>
@@ -150,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611505389461</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="edited TitleMenu">
+      <created>1611511935061</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611511935061</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +180,8 @@
     <MESSAGE value="update gitignore" />
     <MESSAGE value="hoge" />
     <MESSAGE value="add debug mode" />
-    <option name="LAST_COMMIT_MESSAGE" value="add debug mode" />
+    <MESSAGE value="edited TitleMenu" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited TitleMenu" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1796" y="407" width="555" height="253" key="Github.ShareDialog" timestamp="1611393884898">
@@ -188,9 +192,9 @@
       <screen x="0" y="0" width="2560" height="1019" />
     </state>
     <state x="1428" y="154" key="SettingsEditor/0.0.2560.1019/392.-1080.1920.1080@0.0.2560.1019" timestamp="1611392403658" />
-    <state x="1512" y="242" key="Vcs.Push.Dialog.v2" timestamp="1611505392624">
+    <state x="1512" y="242" key="Vcs.Push.Dialog.v2" timestamp="1611511936582">
       <screen x="0" y="0" width="2560" height="1019" />
     </state>
-    <state x="1512" y="242" key="Vcs.Push.Dialog.v2/0.0.2560.1019/392.-1080.1920.1080@0.0.2560.1019" timestamp="1611505392624" />
+    <state x="1512" y="242" key="Vcs.Push.Dialog.v2/0.0.2560.1019/392.-1080.1920.1080@0.0.2560.1019" timestamp="1611511936582" />
   </component>
 </project>

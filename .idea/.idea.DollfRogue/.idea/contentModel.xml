@@ -10,10 +10,12 @@
           <e p="PROJECT_CENTRAL" t="Include">
             <e p="DEBUG_VARIABLE.cs" t="Include" />
           </e>
-          <e p="Test.cs" t="Include" />
           <e p="TitleMenu" t="Include">
             <e p="TitleMenu_Debug.cs" t="Include" />
+            <e p="TitleMenu_EXiT.cs" t="Include" />
+            <e p="TitleMenu_Load.cs" t="Include" />
             <e p="TitleMenu_SceneLoad.cs" t="Include" />
+            <e p="TitleMenu_Start.cs" t="Include" />
           </e>
         </e>
       </e>

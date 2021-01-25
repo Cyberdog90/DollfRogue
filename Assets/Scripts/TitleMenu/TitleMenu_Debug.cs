@@ -11,7 +11,7 @@ public class TitleMenu_Debug : MonoBehaviour {
                 if (Input.GetKeyDown(code)) {
                     var tmp = code.ToString().Replace("Alpha", "");
                     test += tmp;
-                    Debug.Log(test);
+                    //Debug.Log(test);
                 }
             }
         }
