@@ -2,7 +2,7 @@
 using UnityEngine;
 
 public class TitleMenu_Debug : MonoBehaviour {
-    private string test = "";
+    private string _test = "";
     private readonly DEBUG_VARIABLE _dV = new DEBUG_VARIABLE();
 
     void Update() {
@@ -10,15 +10,15 @@ public class TitleMenu_Debug : MonoBehaviour {
             foreach (KeyCode code in Enum.GetValues(typeof(KeyCode))) {
                 if (Input.GetKeyDown(code)) {
                     var tmp = code.ToString().Replace("Alpha", "");
-                    test += tmp;
+                    _test += tmp;
                     //Debug.Log(test);
                 }
             }
         }
 
-        if (Input.GetKeyDown(KeyCode.RightControl)) test = "";
+        if (Input.GetKeyDown(KeyCode.RightControl)) _test = "";
 
-        if (test == _dV.DEBUGPASS && !_dV.DEBUGFRAG) {
+        if (_test == _dV.DEBUGPASS && !_dV.DEBUGFRAG) {
             Debug.Log("立ったまま死ね!");
             _dV.DEBUGFRAG = true;
         }
