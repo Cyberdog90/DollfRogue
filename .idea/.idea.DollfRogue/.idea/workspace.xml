@@ -12,7 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c8372fcb-e462-4167-aa1e-97bca9e997f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DollfRogue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DollfRogue/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_Debug.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_Debug.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_SceneLoad.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_SceneLoad.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,23 +24,20 @@
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://E:/Documents/unity/Projects/DollfRogue/Assets/Scripts/TitleMenu/TitleMenu_Start.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_Debug.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PROJECT_CENTRAL/DEBUG_VARIABLE.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://E:/Documents/unity/Projects/DollfRogue/Assets/Scripts/TitleMenu/TitleMenu_Start.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_Start.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://E:/Documents/unity/Projects/DollfRogue/Assets/Scripts/TitleMenu/TitleMenu_Debug.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PROJECT_CENTRAL/DEBUG_VARIABLE.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_Start.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_EXiT.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_Load.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_SceneLoad.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_Debug.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PROJECT_CENTRAL/DEBUG_VARIABLE.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TitleMenu/TitleMenu_SceneLoad.cs" />
       </list>
     </option>
   </component>
@@ -104,6 +101,9 @@
       <workItem from="1611502912948" duration="2492000" />
       <workItem from="1611509750799" duration="2193000" />
       <workItem from="1611575336170" duration="4595000" />
+      <workItem from="1611580136719" duration="139000" />
+      <workItem from="1611580467994" duration="1359000" />
+      <workItem from="1611595698905" duration="1437000" />
     </task>
     <task id="LOCAL-00001" summary="add gitignore">
       <created>1611393108074</created>
@@ -154,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611579434381</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update TitleMenu.unity">
+      <created>1611580228388</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611580228388</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,9 +205,9 @@
       <screen x="0" y="0" width="2560" height="1019" />
     </state>
     <state x="1428" y="154" key="SettingsEditor/0.0.2560.1019/392.-1080.1920.1080@0.0.2560.1019" timestamp="1611392403658" />
-    <state x="1512" y="242" key="Vcs.Push.Dialog.v2" timestamp="1611579438342">
+    <state x="1512" y="242" key="Vcs.Push.Dialog.v2" timestamp="1611580258129">
       <screen x="0" y="0" width="2560" height="1019" />
     </state>
-    <state x="1512" y="242" key="Vcs.Push.Dialog.v2/0.0.2560.1019/392.-1080.1920.1080@0.0.2560.1019" timestamp="1611579438342" />
+    <state x="1512" y="242" key="Vcs.Push.Dialog.v2/0.0.2560.1019/392.-1080.1920.1080@0.0.2560.1019" timestamp="1611580258129" />
   </component>
 </project>
